@@ -11,6 +11,6 @@ User6
 
 How to run it: Import the project in eclipse and create a JAR. Copy the jar file onto the local machine with Hadoop and use the hadoop streaming command similar to what's given below to execute it:
 
-"$ hadoop jar package_name.driver_class_name input file location on HDFS output location on HDFS"
+"$ hadoop jar package_name.driver_class_name input_file_location_on_HDFS output_location_on_HDFS"
 
 You can visit www.knowbigdata.com for more details and courses on Hadoop and Hadoop related technologies.
